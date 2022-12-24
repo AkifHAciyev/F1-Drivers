@@ -1,0 +1,20 @@
+.wrapper {
+	margin: 20px;
+}
+
+.red {
+	background-color: rgb(197, 80, 80);
+}
+
+.green {
+	background-color: green;
+}
+
+.grey {
+	background-color: #eeeeee;
+	border-right: 1px solid #e7e7e7;
+}
+
+td {
+	border-right: 1px solid #e7e7e7;
+}

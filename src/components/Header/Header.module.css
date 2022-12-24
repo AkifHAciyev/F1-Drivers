@@ -1,0 +1,23 @@
+.header {
+	height: 100px;
+	margin: 30px 10px 0;
+}
+
+.headerImg {
+	border: 3px solid #3d3d3d;
+	border-radius: 8px;
+	display: flex;
+	justify-content: space-between;
+	background-color: black;
+}
+
+.title {
+	color: aliceblue;
+	font-size: 50px;
+}
+
+.img {
+	margin: 0;
+	height: 100px;
+	width: 20%;
+}
